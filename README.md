@@ -1,5 +1,4 @@
 # ZombieCamp
-## Zombie Camp Game
 
 This is the first version of the game, Zombie Camp.
 
