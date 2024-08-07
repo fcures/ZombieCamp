@@ -1,7 +1,5 @@
 # ZombieCamp
 
-This is the first version of the game, Zombie Camp.
-
 - Version: 1.0.0
 - File Type: .exe
 - File Size: 66.4 MB (Unoptimized)
